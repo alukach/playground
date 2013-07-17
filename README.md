@@ -1,12 +1,29 @@
-playground
-==========
+# Github Playground
 
-This is a play to test some Github features!
+Welcome to the Github Playground.  This is a place to test out how to work within a Git project.
 
-**I <3 [MARKDOWN][markdown cheatsheet]!!!**
+## Goal
 
-![happy bug][]
+To achieve this task, we will be completing a simple task: creating a simple travel guide to the cities in which we a) live; and b) grew up.  Each of these cities' travel guides will exist as a single markdown named after the city, located within a directory named for the state in which the city is located.
 
+Example:
 
-[markdown cheatsheet]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#wiki-links
-[happy bug]: http://fc01.deviantart.net/fs71/f/2010/224/f/7/the_happy_bug_by_reaperofsorrow.jpg "...is happy."
+    playground/
+      idaho/
+        boise.md
+
+## Tasks
+
+Each of you should be given a basic task assigned to you as an `Issue`, dictating a specific job that you must fulfill.
+
+![Issues found here!](http://i.imgur.com/RwNeKkG.png)
+
+## Contributing
+
+All contributions to this project should be done within a new [feature branch](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) (for more about what a _feature_ branch is, see the [Git Flow wiki](https://github.com/alukach/playground/wiki/Git-Flow).  Contributions should be made as a [pull request](https://help.github.com/articles/using-pull-requests)
+
+## Wiki
+
+Additional documentation can be at this repo's [wiki](https://github.com/alukach/playground/wiki).  You can find it by clicking the icon to the right:
+
+![Look over to the right!](http://i.imgur.com/cU8QDib.png)
