@@ -6,7 +6,7 @@ Get ripped
 
 ## Stoner Recreation Center
 Get ripped haha
-http://www.yelp.com/biz/stoner-recreation-center-los-angeles
+[Yelp](http://www.yelp.com/biz/stoner-recreation-center-los-angeles)
 
 ## The Getty Center?
-http://www.yelp.com/biz/the-getty-center-los-angeles-2
+[Yelp](http://www.yelp.com/biz/the-getty-center-los-angeles-2)
