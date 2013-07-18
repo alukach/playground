@@ -2,7 +2,7 @@
 
 ## Muscle Beach
 Get ripped
-http://www.yelp.com/biz/muscle-beach-los-angeles
+[Yelp](http://www.yelp.com/biz/muscle-beach-los-angeles)
 
 ## Stoner Recreation Center
 Get ripped haha
