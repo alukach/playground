@@ -2,7 +2,7 @@
 
 Don't forget the flowers in your hair!
 
-##The SF Neighborhoods:
+## The SF Neighborhoods:
 ![SF Neighborhoods][sfneighborhoods]
 
 ### Haight Ashbury
@@ -11,12 +11,19 @@ http://en.wikipedia.org/wiki/Haight-Ashbury
 
 ## Cool Maps
 Local (blue) vs tourist (red) picture locations: 
+
 ![Locals VS Tourists][localsvstourists]
 
+---
+
 Mountains of Crime:
+
 ![Mountains of Crime][mountainsofcrime]
 
+---
+
 Trees V Crimes V Cabs:
+
 ![Trees V Crimes V Cabs][treesvcrimesvcabs]
 
 [sfneighborhoods]: http://0.tqn.com/d/sanfrancisco/1/0/S/G/-/-/sfneighborhoodsgrid500.jpg "Which is your favorite?"
